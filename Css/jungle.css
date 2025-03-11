@@ -81,12 +81,12 @@ header a {
     position: relative;
     z-index: 2;
     margin-top: -100px;
-    size: 100px;
+    size: 100px ;
 }
 
 .image-container img {
-    max-width: 250vh;
-    max-height: 250vh;
+    max-width: 150vh;
+    max-height: 150vh;
     margin-top: 50%;
     transition: transform 0.1s ease;
     margin-top: 100;
