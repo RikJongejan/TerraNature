@@ -6,13 +6,13 @@ html, body {
 
 body {
     margin: 0;
-    background-color: #B9B9D0;
+    background-color: #0E5825;
     overflow-x: hidden;
 }
 
 .Antarctica {
     position: relative;
-    background-image: url('/img/antartica.jpg');
+    background-image: url('/img/jungle.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
@@ -81,11 +81,12 @@ header a {
     position: relative;
     z-index: 2;
     margin-top: -100px;
+    size: 100px;
 }
 
 .image-container img {
-    max-width: 150vh;
-    max-height: 150vh;
+    max-width: 250vh;
+    max-height: 250vh;
     margin-top: 50%;
     transition: transform 0.1s ease;
     margin-top: 100;
@@ -97,7 +98,7 @@ header a {
     left: 0;
     right: 0;
     padding: 40px;
-    background-color: #B9B9D0;
+    background-color: #0E5825;
     text-align: center;
 }
 
